@@ -31,7 +31,3 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
-
-.center {
-    text-align: center;
-}
