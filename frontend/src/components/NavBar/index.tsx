@@ -16,5 +16,4 @@ function NavBar() { //const NavBar = () => { .........}
         </div>
     );
 }
-
 export default NavBar;
